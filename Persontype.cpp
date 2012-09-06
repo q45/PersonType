@@ -55,7 +55,7 @@ int main() {
 
 	PersonType *myperson = new PersonType();
 
-	myperson->setName("quintin","Smith");
+	myperson->setName("q","Dawg");
 
 	myperson->print();
 
